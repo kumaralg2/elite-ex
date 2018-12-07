@@ -452,11 +452,11 @@ i:before {
 }
 
 .main_header_area.white_menu .header_menu {
-  background: #fff;
+  background: #261a1a;
 }
 
 .main_header_area.white_menu .header_menu .navbar.navbar-default .nav.navbar-nav > li > a {
-  color: #242424;
+  color: #fff;
 }
 
 .main_header_area.white_menu .header_menu .navbar.navbar-default .nav.navbar-nav > li:hover > a, .main_header_area.white_menu .header_menu .navbar.navbar-default .nav.navbar-nav > li.active > a {
@@ -546,6 +546,7 @@ i:before {
   margin-bottom: 0px;
   background: transparent;
   border: none;
+  min-height: 83px;
 }
 
 .header_menu .navbar.navbar-default .navbar-header .navbar-brand {

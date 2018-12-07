@@ -154,12 +154,11 @@
     }
     .navbar-toggle {
         margin-right: 15px;
-        padding: 9px 0px;
         margin-top: 18px;
         margin-bottom: 19px;
         border: none;
-        border-radius: 0px;
-        background: transparent !important;
+        border-radius: 2px;
+        background: white !important;
     }
     .navbar-toggle .icon-bar {
         display: block;
@@ -188,7 +187,7 @@
     }
     .header_menu .navbar.navbar-default .navbar-collapse {
         text-align: left;
-        background: #eeeeee;
+        background: ##090202;
         max-height: 350px;
     }
     .header_menu .navbar.navbar-default .nav.navbar-nav li.search_dropdown {
@@ -883,8 +882,8 @@
         padding: 155px 0px 86px 0px;
     }
     .header_menu .navbar.navbar-default .navbar-header .navbar-brand {
-        line-height: 70px;
-        width: 200px;
+        line-height: 86px;
+        width: 215px;
     }
     .main_slider_area .book_table_area .book_single_text {
         font-size: 32px;
