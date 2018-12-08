@@ -78,7 +78,7 @@ body {
   line-height: 24px;
   font-size: 14px;
   font-family: "Open Sans", sans-serif;
-  color: #898989;
+  background-color: #151010;
 }
 
 body, p, h1, h2, h3, h4, h5, h6 {
@@ -163,7 +163,7 @@ i:before {
 }
 
 .left_ex_title h2 span {
-  color: #242424;
+  color: wheat;
 }
 
 .left_ex_title p {
@@ -346,7 +346,7 @@ i:before {
 }
 
 .main_big_title h2 span {
-  color: #242424;
+  color: wheat;
 }
 
 .main_big_title h2:before {
@@ -392,7 +392,7 @@ i:before {
   font-family: "Montserrat", sans-serif;
   letter-spacing: .96px;
   text-transform: uppercase;
-  color: #242424;
+  color: wheat;
   padding-bottom: 10px;
 }
 
@@ -1836,7 +1836,7 @@ i:before {
   font-size: 20px;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
-  color: #242424;
+  color: wheat;
   letter-spacing: .6px;
   text-transform: uppercase;
   padding-bottom: 15px;
@@ -1869,7 +1869,7 @@ i:before {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   letter-spacing: .32px;
-  color: #242424;
+  color: wheat;
   padding-bottom: 10px;
 }
 
@@ -2419,7 +2419,7 @@ i:before {
 /* Explor Room Area css
 ============================================================================================ */
 .explor_room_area {
-  background: #f6f6f6;
+  background: #291f1f;
   padding: 100px 0px;
 }
 
@@ -2495,7 +2495,7 @@ i:before {
 }
 
 .explor_item {
-  background: #fff;
+  background: #efbd45;
 }
 
 .explor_item .room_image {
@@ -3842,7 +3842,7 @@ i:before {
 }
 
 .activities_area .activities_item_inner .activities_item_row .activities_content h4 {
-  color: #242424;
+  color: wheat;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
   text-transform: uppercase;
@@ -3869,7 +3869,7 @@ i:before {
 }
 
 .activities_area .activities_item_inner:nth-child(odd) {
-  background: #f6f6f6;
+  background: #291f1f;
 }
 
 /* End Activities Area css
@@ -6688,6 +6688,7 @@ i:before {
   line-height: 24px;
   letter-spacing: .30px;
   font-family: "Montserrat", sans-serif;
+  color: #898989;
 }
 
 .about_widget .ab_wd_list .media:last-child .media-body h4 {
