@@ -544,7 +544,7 @@ i:before {
 .header_menu .navbar.navbar-default {
   border-radius: 0px;
   margin-bottom: 0px;
-  background: transparent;
+  background: #262323;
   border: none;
   min-height: 83px;
 }
@@ -796,7 +796,7 @@ i:before {
 
 .header_menu.affix .navbar.navbar-default .nav.navbar-nav > li > a {
   line-height: 70px;
-  color: #242424;
+  color: #f3e8e8;
 }
 
 .header_menu.affix .navbar.navbar-default .nav.navbar-nav > li:hover > a, .header_menu.affix .navbar.navbar-default .nav.navbar-nav > li.active > a {
@@ -1178,7 +1178,7 @@ i:before {
   border: 1px solid #8e8e8e;
   padding: 0px 27px;
   line-height: 46px;
-  color: #000;
+  color: #e7eab0;
   font-size: 15px;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
@@ -2273,7 +2273,7 @@ i:before {
 
 .introduction_area.resort_story_area .introduction_left_text h6 {
   font-size: 16px;
-  color: #242424;
+  color: #a29c9c;
   font-family: "Open Sans", sans-serif;
   font-style: italic;
   letter-spacing: .48px;
@@ -2389,7 +2389,7 @@ i:before {
   font-size: 16px;
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
-  color: #363636;
+  color: #e6e0e0;
   letter-spacing: .48px;
   text-transform: uppercase;
   padding: 28px 0px 15px 0px;
@@ -2419,7 +2419,7 @@ i:before {
 /* Explor Room Area css
 ============================================================================================ */
 .explor_room_area {
-  background: #291f1f;
+  background: #141111;
   padding: 100px 0px;
 }
 
@@ -2570,7 +2570,7 @@ i:before {
 }
 
 .explor_item .explor_text ul li a {
-  color: #898989;
+  color: #423737;
   font-family: "Open Sans", sans-serif;
   letter-spacing: .30px;
   font-size: 15px;
@@ -2586,7 +2586,7 @@ i:before {
 }
 
 .explor_item .explor_text .explor_footer .pull-left h3 span {
-  color: #a0a0a0;
+  color: #625a5a;
   font-size: 14px;
 }
 
@@ -4222,6 +4222,7 @@ i:before {
 
 .client_area.client_three {
   padding: 100px 0px;
+  background-color: #272121;
 }
 
 .client_area.client_three .clients_slider {
@@ -6639,7 +6640,7 @@ i:before {
 /* Footer Area css
 ============================================================================================ */
 .footer_widget_area {
-  background: #2a292b;
+  background: #070708.introduction_area.resort_story_area .introduction_left_text h6;
   padding: 80px 0px 50px 0px;
 }
 
